@@ -1,5 +1,6 @@
 package com.mycompany.app;
 
+import com.mycompany.app.Examples;
 import io.sinistral.proteus.ProteusApplication;
 
 public class ExampleApplication extends ProteusApplication

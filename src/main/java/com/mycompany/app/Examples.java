@@ -7,7 +7,6 @@ import io.swagger.annotations.*;
 import io.sinistral.proteus.server.*;
 import java.util.*;
 import com.google.inject.Singleton;
-import com.jsoniter.output.JsonStream;
 import io.undertow.server.HttpServerExchange;
 import static io.sinistral.proteus.server.ServerResponse.response;
 
